@@ -1,0 +1,4 @@
+<launch>
+  <node name="motors" pkg="remote_robot_control" type="motors_subscriber.py" />
+  <node name="keyboard_reader" pkg="remote_robot_control" type="teleop_reader.py" />
+</launch>
