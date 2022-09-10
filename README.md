@@ -32,4 +32,4 @@ These packages provides necessary nodes in ROS to mapping room.
 All processes are performed on RPI 3B.The user has access to the visualization and remote control of the robot thanks to the ROS network and WiFi connection.
 
 # Sample rviz panel during room mapping
-![obraz](https://user-images.githubusercontent.com/62072813/188001180-3781a4b1-d623-474e-af4f-c8752c1a9271.png
+![obraz](https://user-images.githubusercontent.com/62072813/188001180-3781a4b1-d623-474e-af4f-c8752c1a9271.png)
