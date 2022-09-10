@@ -24,8 +24,8 @@ Simultaneously it uses SLAM technology for room mapping.
 - ROS Kinetic 16.04
 
 ## The robot uses great packages for the ROS environment
-- Hector_slam - [Hector_SLAM](https://github.com/tu-darmstadt-ros-pkg/hector_slam)
-- Rplidar_ros -  [RPLidar_ROS](https://github.com/robopeak/rplidar_ros)
+- [Hector_SLAM](https://github.com/tu-darmstadt-ros-pkg/hector_slam)
+- [RPLidar_ROS](https://github.com/robopeak/rplidar_ros)
 
 These packages provides necessary nodes in ROS to mapping room.
 
